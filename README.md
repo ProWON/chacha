@@ -5,7 +5,7 @@
 인근 드라이브코스를 추천해 주는 웹 서비스 입니다.
 
 * 기술 Stack 
-  * JAVA
-  * JSP
-  * Python
+  * java
+  * jsp/servlet
+  * python
   * java script
