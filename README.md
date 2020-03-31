@@ -9,4 +9,4 @@
   * jsp/servlet
   * python
   * java script
-<img src="main.jpg">
+<img src="main.JPG">
