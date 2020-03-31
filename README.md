@@ -11,7 +11,16 @@
   * java script
 
 ### MAIN
-<img src="main.JPG">
+<img src="main.JPG" heigth="200px">
 
 ### 선택
 <img src="select.JPG">
+
+### 결과1
+<img src="result1.JPG">
+
+### 결과2
+<img src="result2.JPG">
+
+### 최종결과
+<img src="result1.JPG">
