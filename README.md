@@ -23,4 +23,4 @@
 <img src="result2.JPG">
 
 ### 최종결과
-<img src="fianlresult.JPG">
+<img src="finalresult.JPG">
