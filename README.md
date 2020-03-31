@@ -9,3 +9,4 @@
   * jsp/servlet
   * python
   * java script
+<img src="/img/main.jpg">
