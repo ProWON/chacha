@@ -23,7 +23,7 @@
 <img src="result1.JPG">
 
 ### 결과2
-* 드라이브 코스의 카페들 추천
+* 드라이브 코스의 카페 추천
 <img src="result2.JPG">
 
 ### 최종결과
