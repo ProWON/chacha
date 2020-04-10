@@ -19,7 +19,7 @@
 <img src="select.JPG">
 
 ### 결과1
-* 일치하는 드라이브 코스 추천
+* 드라이브 코스 추천
 <img src="result1.JPG">
 
 ### 결과2
