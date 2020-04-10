@@ -11,12 +11,15 @@
   * java script
 
 ### MAIN
+* 회원가입과 로그인
 <img src="main.JPG" heigth="200px">
 
 ### 선택
+* 원하는 테마, 동승자, 목적
 <img src="select.JPG">
 
 ### 결과1
+* 일치하는 드라이브 코스 추천
 <img src="result1.JPG">
 
 ### 결과2
